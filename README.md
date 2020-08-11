@@ -1,2 +1,2 @@
 # proffy
-Aplicação desenvolvida na semana NLW promovida pela Rocketseat.
+Aplicação desenvolvida na semana NLW2 promovida pela Rocketseat.
